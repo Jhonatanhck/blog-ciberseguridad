@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Start](README.md)
-* [About me](About-Me.md)
+* [About me](About-me.md)
 
 ## Writeups
 
