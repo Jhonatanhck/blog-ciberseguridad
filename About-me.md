@@ -3,16 +3,19 @@ description: Pentester junior y estudiante de Ingeniería en Ciberseguridad.
 icon: user
 ---
 
+
 # Sobre mí
 
 Soy Jhonatan Pimentel (JhonaP), pentester junior y estudiante de Ingeniería
 en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentesting.
 
+
 ## Certificaciones
 
-* HTB Certified Web Exploitation Specialist (CWES)
-* eLearnSecurity Junior Penetration Tester v2 (eJPTv2)
-* Burp Suite Certified Practitioner (BSCP)
+* CWES (HTB Certified Web Exploitation Specialist)
+* eJPTv2 (eLearnSecurity Junior Penetration Tester v2)
+* BSCP (Burp Suite Certified Practitioner)
+
 
   ## Contacto
 
