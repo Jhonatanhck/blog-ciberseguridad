@@ -7,6 +7,10 @@ icon: user
 
 Soy Jhonatan Pimentel (JhonaP), pentester junior y estudiante de Ingeniería en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentesting.
 
+## Pasatiempos
+
+Cuando no estoy hackeando, estoy jugando. Soy pentester de día y gamer el resto del tiempo, con horas que la verdad no me gusta admitir.
+
 ## Certificaciones
 
 * CWES (HTB Certified Web Exploitation Specialist)
