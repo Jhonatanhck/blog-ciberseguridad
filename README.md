@@ -4,7 +4,9 @@ description: Writeups, Research y Certifications.
 
 # Welcome
 
-Hola, Soy JhonaP (Jhonatan Pimentel), un estudiante de ciberseguridad, pentester junior y aficionado de la ciberseguridad. En este blog documentare todo lo que vaya aprendiendo acerca de maquinas, tecnicas de explotacion, y reviews acerca de certificaciones.
+Hola, soy Jhonatan Pimentel (JhonaP), estudiante de Ingeniería en
+Ciberseguridad y pentester junior. Aquí documento lo que voy aprendiendo:
+máquinas, técnicas de explotación y reseñas de certificaciones.
 
 ## Qué encontrarás
 
