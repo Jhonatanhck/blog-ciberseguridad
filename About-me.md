@@ -21,4 +21,3 @@ Cuando no estoy hackeando, estoy jugando. Soy pentester de día y gamer el resto
 
 * LinkedIn: [Jhonatan Pimentel](https://www.linkedin.com/in/jhonatan-pimentel-a7072231b)
 * GitHub: [Jhonatanhck](https://github.com/Jhonatanhck)
-* Email: jhonatanpimentel0609@gmail.com
