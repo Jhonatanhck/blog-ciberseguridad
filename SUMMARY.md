@@ -13,4 +13,4 @@
 
 ## Certificaciones
 
-* [Certifications](certifications/README.md)
+* [Certifications](Certifications/README.md)
