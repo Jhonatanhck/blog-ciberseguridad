@@ -3,12 +3,9 @@ description: Pentester junior y estudiante de Ingeniería en Ciberseguridad.
 icon: user
 ---
 
+# About me
 
-# Sobre mí
-
-Soy Jhonatan Pimentel (JhonaP), pentester junior y estudiante de Ingeniería
-en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentesting.
-
+Soy Jhonatan Pimentel (JhonaP), pentester junior y estudiante de Ingeniería en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentesting.
 
 ## Certificaciones
 
@@ -17,8 +14,9 @@ en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentestin
 * BSCP (Burp Suite Certified Practitioner)
 
 
-  ## Contacto
 
-* LinkedIn: [Jhonatan Pimentel](www.linkedin.com/in/jhonatan-pimentel-a7072231b)
+## Contacto
+
+* LinkedIn: [Jhonatan Pimentel](https://www.linkedin.com/in/jhonatan-pimentel-a7072231b)
 * GitHub: [Jhonatanhck](https://github.com/Jhonatanhck)
 * Email: jhonatanpimentel0609@gmail.com
