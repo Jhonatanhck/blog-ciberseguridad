@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Inicio](README.md)
-* [Sobre mí](sobre-mi.md)
+* [Start](README.md)
+* [About me](About-Me.md)
 
 ## Writeups
 
-* [Índice de writeups](writeups/README.md)
+* [Writeups](writeups/README.md)
 
 ## Investigación
 
-* [Índice de investigación](investigacion/README.md)
+* [Research](investigacion/README.md)
 
 ## Certificaciones
 
-* [Reseñas de certificaciones](certificaciones/README.md)
+* [Certifications](certificaciones/README.md)
