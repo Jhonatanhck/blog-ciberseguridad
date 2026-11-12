@@ -9,8 +9,8 @@
 
 ## Investigación
 
-* [Research](investigacion/README.md)
+* [Research](Research/README.md)
 
 ## Certificaciones
 
-* [Certifications](certificaciones/README.md)
+* [Certifications](certifications/README.md)
