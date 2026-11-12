@@ -5,7 +5,7 @@
 
 ## Writeups
 
-* [Writeups](writeups/README.md)
+* [Writeups](Writeups/README.md)
 
 ## Investigación
 
