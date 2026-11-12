@@ -19,6 +19,6 @@ en Ciberseguridad. Mi enfoque es la seguridad de aplicaciones web y el pentestin
 
   ## Contacto
 
-* LinkedIn: [www.linkedin.com/in/jhonatan-pimentel-a7072231b]
+* LinkedIn: www.linkedin.com/in/jhonatan-pimentel-a7072231b
 * GitHub: [Jhonatanhck](https://github.com/Jhonatanhck)
-* Email: [jhonatanpimentel0609@gmail.com]
+* Email: jhonatanpimentel0609@gmail.com
